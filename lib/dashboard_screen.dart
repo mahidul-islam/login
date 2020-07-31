@@ -3,15 +3,6 @@ import 'profile.dart';
 import 'productbox.dart';
 import 'data.dart';
 
-class DashBoard extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      child: Text('this is it'),
-    );
-  }
-}
-
 class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
